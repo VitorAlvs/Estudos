@@ -9,7 +9,7 @@ link = "https://dlp.hashtagtreinamentos.com/python/intensivao/login"
 #pip install autogui
 import pyautogui 
 import time
-import pandas
+import pandas as pd
 
 #clicar             -> pyautogui.click
 #escrever           -> pyautogui.write
@@ -47,10 +47,9 @@ pyautogui.press("enter")
 time.sleep(3)
 
 #~~Passo 3 - Importar a base de dados
-import pandas
 produtos = r"C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Jornada Python - Hashtag Treinamentos\Aula 01\produtos.csv"
 
-tabela = pandas.read_csv(produtos)
+tabela = pd.read_csv(produtos)
 print(tabela)
 
 #~~Passo 4 - Cadastrar um produto
@@ -90,7 +89,7 @@ for linha in tabela.index:
         #obs
         obs = tabela.loc[linha, "obs"]
 
-        if not pandas.isna(obs):
+        if not pd.isna(obs):
             pyautogui.write(obs)
 
         #enviar

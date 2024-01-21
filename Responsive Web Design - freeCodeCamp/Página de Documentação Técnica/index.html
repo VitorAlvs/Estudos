@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+    
+    <!--(8)-->
+    <nav id="navbar">
+        <!--(9,11)-->
+        <header>Introdução ao HTML</header>
+        <ul>
+            <!--(10,12,13)-->
+            <li><a href="#O_que_é_HTML?" class="nav-link">      O que é HTML?       </a></li>
+            <li><a href="#Corpo_do_HTML" class="nav-link">      Corpo do HTML       </a></li>
+            <li><a href="#Aninhar_elementos" class="nav-link">  Aninhar elementos   </a></li>
+            <li><a href="#Elementos_vazios" class="nav-link">   Elementos vazios    </a></li>
+            <li><a href="#Imagens" class="nav-link">            Imagens             </a></li>
+        </ul>
+    </nav>
+
+    <!--(1)-->
+    <main id="main-doc">
+        <!--(2,4)-->
+        <section class="main-section" id="O_que_é_HTML?">
+            <!--(3)-->
+            <header>O que é HTML?</header>
+            <!--(5)-->
+            <p>Primeiramente, HTML <span class="bold">não é uma linguagem de programação</span>, é uma linguagem de marcação e é utilizada para definir a estrutura de seu conteúdo.</p>
+            <p>Consiste de uma série de elementos, que você usa para delimitar ou agrupar diferentes partes do conteúdo para que ele apareça ou atue de determinada maneira.</p>
+            <p>As tags anexas podem transformar uma palavra ou imagem num hiperlink, pode colocar palavras em itálico, pode aumentar ou diminuir a fonte e assim por diante.</p>
+            <!--(6)-->
+            <code>HTML</code>
+        </section>
+
+        <!--(2,4)-->
+        <section class="main-section" id="Corpo_do_HTML">
+            <!--(3)-->
+            <header>Corpo do HTML</header>
+            <!--(5)-->
+            <p>Principais partes</p>
+
+            <!--(7)-->
+            <ol>
+                <li><span class="li-title bold">Tag de Abertura:     </span>O elemento em questão é identificado pelo seu nome entre parênteses angulares de abertura e fechamento. Essa notação indica o ponto de partida do elemento ou o início de sua aplicação, neste contexto específico, indicando onde o parágrafo começa;</li>
+                <li><span class="li-title bold">Tag de Fechamento:   </span>Isso é equivalente à tag de abertura, com a única diferença de que possui uma barra antes do nome do elemento. Essa notação indica o ponto de término do elemento, no caso, o fim do parágrafo. Omissões da tag de fechamento são erros frequentes cometidos por iniciantes e podem resultar em comportamentos inesperados;</li>
+                <li><span class="li-title bold">Conteúdo:            </span>O conteúdo do elemento;</li>
+                <li><span class="li-title bold">Elemento:            </span>Tag de abertura, de fechamento, e o conteúdo formam o elemento;</li>
+                <li><span class="li-title bold">Atributos:           </span>Inclui informações adicionais sobre o elemento que não devem ser exibidas no conteúdo final.</li>
+            </ol>
+            <!--(6)-->
+            <code>&ltp id="gato"&gt;Meu gato é preto&lt/p&gt;</code>
+            <p>No exemplo acima, <span class="bold">&lt</span> é uma tag de abertura ; <span class="bold">&gt;</span> é uma tag de fechamento ; o <span class="bold">conteúdo dentro de &ltp&gt e &lt/p&gt </span> são o conteúdo ; <span class="bol">todo o texto</span> forma o elemento e <span class="bold">id="gato"</span> é um atributo;</p>
+        </section>
+
+        <!--(2,4)-->
+        <section class="main-section" id="Aninhar_elementos">
+            <!--(3)-->
+            <header>Aninhar elementos</header>
+            <!--(5)-->
+            <p>Você pode colocar elementos dentro de outros elementos também — isso é chamado de aninhamento. Se quiséssemos afirmar que nosso gato é muito mal-humorado, poderíamos envolver a palavra "muito" em um elemento <span class="bold">&ltstrong&gt;</span>, o que significa que a palavra deve ser fortemente enfatizada:</p>
+            <!--(6)-->
+            <code>&ltp&gt;Meu gatinho é &ltstrong&gt;muito&lt/strong&gt; mal humorado.&lt/p&gt;</code>
+            <p>Entretanto, é crucial assegurar que seus elementos estejam devidamente organizados em camadas. No caso do exemplo mencionado, começamos com a abertura do elemento &ltp&gt; seguido pelo elemento &ltstrong&gt;. Portanto, a sequência de fechamento deve seguir a mesma ordem: primeiro o elemento &ltstrong&gt; e, em seguida, o elemento &ltp&gt;.</p>
+        </section>
+
+        <!--(2,4)-->
+        <section class="main-section" id="Elementos_vazios">
+            <!--(3)-->
+            <header>Elementos vazios</header>
+            <!--(5)-->
+            <p>Alguns elementos não possuem conteúdo e são chamados de elementos vazios. Considere o elemento <img> que temos na nossa página HTML:</p>
+            <!--(6)-->
+            <code>&ltimg src="imagens/firefox-icon.png" alt="Minha imagem de teste" /&gt;</code>
+            <p>Ele contém dois atributos, mas não há tag </img> de fechamento, e não há conteúdo interno. Isso acontece porque um elemento de imagem não envolve conteúdo para ter efeito em si mesmo. Sua proposta é incorporar uma imagem na página HTML no lugar que o código aparece.</p>
+        </section>
+
+        <!--(2,4)-->
+        <section class="main-section" id="Imagens">
+            <!--(3)-->
+            <header>Imagens</header>
+            <!--(6)-->
+            <code>&ltimg src="imagens/firefox-icon.png" alt="Minha imagem de teste" /&gt;</code>
+            <!--(5)-->
+            <p>Como dissemos antes, o elemento &ltimg/&gt; incorpora uma imagem na nossa página na posição que aparece. Isso é feito pelo atributo src (source), que contém o caminho para nosso arquivo de imagem.</p>
+            <p>Incluímos também um atributo alt (alternative). Neste atributo, você especifica um texto descritivo para usuários que não podem ver a imagem.</p>
+        </section>
+
+
+    </main>
+
+</body>
+</html>

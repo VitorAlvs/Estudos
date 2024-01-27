@@ -1,0 +1,8 @@
+Antes de usar, tenha certeza de que tem o Python instalado na sua máquina.
+https://python.org.br/instalacao-windows/
+
+-- O documento csv deve ser extraído como "Texto Unicode (Delimitado por vírgula)(*.csv)" do Admin, deve estar nomeado como "Usuários.csv" e deve ser salvo no mesmo local que o arquivo "Listar_Usr.py" está;
+
+-- Abra o arquivo Listar_Usr.py com o Python (Botão direito > Abrir com > Python; ou Botão direito > Abrir)
+
+-- Após extraído, importe o arquivo como base de dados de arquivo csv no Excel (Em um arquivo excel em branco), defina a 'Detecção de Tipo de Dados' como 'Com base em um conjunto de dados inteiro'.

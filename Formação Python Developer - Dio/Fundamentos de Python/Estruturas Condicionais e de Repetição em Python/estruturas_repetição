@@ -1,0 +1,29 @@
+#for
+value = 0
+list1 = [12, 14, 16]
+
+for each in list1:
+    value += each
+
+print(value)
+
+#while
+value2 = 0
+
+while value2 < 50:
+    value2 += 1
+
+print(value2)
+
+#range
+list2 = list(range(1, 21))
+print(list2)
+
+list3 = list(range(0, 51, 5))
+print(list3)
+
+string = '''Essa 
+            é
+            uma
+            string'''
+print(string)

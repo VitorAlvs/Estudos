@@ -11,7 +11,7 @@ print(4 * 3)
 print(12 / 3)
 
 #Divisão inteira
-print(12 // 3)
+print(12 // 9)
 
 #Módulo (sobra)
 print(10 % 3)

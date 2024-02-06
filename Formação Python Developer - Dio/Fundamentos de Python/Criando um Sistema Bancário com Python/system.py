@@ -8,7 +8,10 @@ saldo = 0
 while quant_saque < quant_max_saque:
     def menu():
         global saldo
-        opcao = input("Se deseja realizar um saque, digite 1; se deseja realizar um depósito, digite 2; se deseja vizualizar o extrato, digite 3: ")
+        opcao = input("""Digite
+1 para Saque\n
+2 para Depósito\n
+3 para Extrato: """)
         if int(opcao) == 1:
             valor = float(input("Digite um valor para retirar: "))
             sacar(valor)

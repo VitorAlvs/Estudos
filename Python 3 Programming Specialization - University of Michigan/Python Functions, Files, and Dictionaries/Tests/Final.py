@@ -3,6 +3,53 @@
 # To start, define a function called strip_punctuation which takes one parameter, a string which represents a word, and removes characters considered punctuation from everywhere in the word. (Hint: remember the .replace() method for strings.)
 
 
-with open('project_twitter_data.csv', 'r') as tweets:
-    for each in tweets:
-        print(each)
+punctuation_chars = ["'", '"', ",", ".", "!", ":", ";", '#', '@']
+
+
+#Positive words
+positive_wrds = []
+with open('positive_words.txt', 'r') as pstv:
+    for each in pstv:
+        if each[0] != ';' and each[0] != '\n':
+            positive_wrds.append(each.strip())
+print(positive_wrds)
+
+#Negative words
+negative_wrds = []
+with open('negative_words.txt', 'r') as pstv:
+    for each in pstv:
+        if each[0] != ';' and each[0] != '\n':
+            negative_wrds.append(each.strip())
+print(negative_wrds)
+
+#Def pstv score
+def pstv_score(x):
+    y = 0
+    for each in x:
+        if x in positive_wrds:
+            y += 1
+    return y
+
+#Def negt score
+def negt_score(x):
+    y = 0
+    for each in x:
+        if x in negative_wrds:
+            y += 1
+    return y
+
+#Tweets
+tweets_lst = []
+with open('project_twitter_data.csv', 'r') as file:
+    lines = file.readlines()
+    for each in lines[1:]:
+        each = each.strip().split(',')
+        retweet_count = each[1]
+        reply_count = each[2]
+        positive_score = pstv_score(each)
+        negative_score = negt_score(each)
+        y = retweet_count, reply_count, positive_score, negative_score
+        tweets_lst.append(y)
+print(tweets_lst)
+
+

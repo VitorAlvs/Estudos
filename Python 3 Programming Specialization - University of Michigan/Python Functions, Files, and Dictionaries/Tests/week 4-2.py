@@ -4,19 +4,19 @@ def mult(x, y=6):
 
 #The following function, greeting, does not work. Please fix the code so that it runs without error. This only requires one change in the definition of the function.
     #1
-def greeting(greeting="Hello ", name, excl="!"):
-    return greeting + name + excl
+# def greeting(greeting="Hello ", name, excl="!"):
+#     return greeting + name + excl
     #2
 def greeting(name, greeting="Hello ", excl="!"):
     return greeting + name + excl
 
 #Below is a function, sum, that does not work. Change the function definition so the code works. The function should still have a required parameter, intx, and an optional parameter, intz with a defualt value of 5.
     #1
-def sum(intz=5, intx):
-    return intz + intx
-    #2
-def sum(intx, intz=5):
-    return intz + intx
+# def sum(intz=5, intx):
+#     return intz + intx
+#     #2
+# def sum(intx, intz=5):
+#     return intz + intx
 
 #Write a function, test, that takes in three parameters: a required integer, an optional boolean whose default value is True, and an optional dictionary, called dict1, whose default value is {2:3, 4:5, 6:8}. If the boolean parameter is True, the function should test to see if the integer is a key in the dictionary. The value of that key should then be returned. If the boolean parameter is False, return the boolean value “False”.
 def test(x, y = True, dict1 = {2:3, 4:5, 6:8}):

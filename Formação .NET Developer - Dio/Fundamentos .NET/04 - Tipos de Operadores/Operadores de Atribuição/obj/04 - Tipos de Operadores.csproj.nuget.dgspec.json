@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JoãoVítorSantosBR-iT\\Documents\\GitHub\\Estudos\\Formação .NET Developer - Dio\\Fundamentos .NET\\04 - Tipos de Operadores\\04 - Tipos de Operadores.csproj": {}
+    "C:\\Users\\JoãoVítorSantosBR-iT\\Documents\\GitHub\\Estudos\\Formação .NET Developer - Dio\\Fundamentos .NET\\04 - Tipos de Operadores\\Operadores de Atribuição\\04 - Tipos de Operadores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JoãoVítorSantosBR-iT\\Documents\\GitHub\\Estudos\\Formação .NET Developer - Dio\\Fundamentos .NET\\04 - Tipos de Operadores\\04 - Tipos de Operadores.csproj": {
+    "C:\\Users\\JoãoVítorSantosBR-iT\\Documents\\GitHub\\Estudos\\Formação .NET Developer - Dio\\Fundamentos .NET\\04 - Tipos de Operadores\\Operadores de Atribuição\\04 - Tipos de Operadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JoãoVítorSantosBR-iT\\Documents\\GitHub\\Estudos\\Formação .NET Developer - Dio\\Fundamentos .NET\\04 - Tipos de Operadores\\04 - Tipos de Operadores.csproj",
+        "projectUniqueName": "C:\\Users\\JoãoVítorSantosBR-iT\\Documents\\GitHub\\Estudos\\Formação .NET Developer - Dio\\Fundamentos .NET\\04 - Tipos de Operadores\\Operadores de Atribuição\\04 - Tipos de Operadores.csproj",
         "projectName": "04 - Tipos de Operadores",
-        "projectPath": "C:\\Users\\JoãoVítorSantosBR-iT\\Documents\\GitHub\\Estudos\\Formação .NET Developer - Dio\\Fundamentos .NET\\04 - Tipos de Operadores\\04 - Tipos de Operadores.csproj",
+        "projectPath": "C:\\Users\\JoãoVítorSantosBR-iT\\Documents\\GitHub\\Estudos\\Formação .NET Developer - Dio\\Fundamentos .NET\\04 - Tipos de Operadores\\Operadores de Atribuição\\04 - Tipos de Operadores.csproj",
         "packagesPath": "C:\\Users\\JoãoVítorSantosBR-iT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JoãoVítorSantosBR-iT\\Documents\\GitHub\\Estudos\\Formação .NET Developer - Dio\\Fundamentos .NET\\04 - Tipos de Operadores\\obj\\",
+        "outputPath": "C:\\Users\\JoãoVítorSantosBR-iT\\Documents\\GitHub\\Estudos\\Formação .NET Developer - Dio\\Fundamentos .NET\\04 - Tipos de Operadores\\Operadores de Atribuição\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JoãoVítorSantosBR-iT\\AppData\\Roaming\\NuGet\\NuGet.Config"

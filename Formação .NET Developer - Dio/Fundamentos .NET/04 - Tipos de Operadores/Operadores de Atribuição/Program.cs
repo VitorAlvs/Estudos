@@ -64,3 +64,15 @@ double r = 4/2+2;
 Console.WriteLine(r);
 double s = 4/(2+2);
 Console.WriteLine(s);
+
+Console.WriteLine("-------------------------");
+string t = "15";
+int u = Convert.ToInt32(t);
+Console.WriteLine(u);
+
+string v = "85";
+int w = 0;
+int.TryParse(v, out w);
+
+Console.WriteLine(w);
+

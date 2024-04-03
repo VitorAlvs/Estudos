@@ -1,0 +1,15 @@
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\obj\Debug\net8.0\Operadores Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\obj\Debug\net8.0\Operadores Condicionais.AssemblyInfoInputs.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\obj\Debug\net8.0\Operadores Condicionais.AssemblyInfo.cs
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\obj\Debug\net8.0\Operadores Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\obj\Debug\net8.0\Operadores Condicionais.sourcelink.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\bin\Debug\net8.0\Operadores Condicionais.exe
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\bin\Debug\net8.0\Operadores Condicionais.deps.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\bin\Debug\net8.0\Operadores Condicionais.runtimeconfig.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\bin\Debug\net8.0\Operadores Condicionais.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\bin\Debug\net8.0\Operadores Condicionais.pdb
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\obj\Debug\net8.0\Operadores Condicionais.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\obj\Debug\net8.0\refint\Operadores Condicionais.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\obj\Debug\net8.0\Operadores Condicionais.pdb
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\obj\Debug\net8.0\Operadores Condicionais.genruntimeconfig.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Condicionais\obj\Debug\net8.0\ref\Operadores Condicionais.dll

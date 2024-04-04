@@ -1,0 +1,15 @@
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\obj\Debug\net8.0\Operadores Lógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\obj\Debug\net8.0\Operadores Lógicos.AssemblyInfoInputs.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\obj\Debug\net8.0\Operadores Lógicos.AssemblyInfo.cs
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\obj\Debug\net8.0\Operadores Lógicos.csproj.CoreCompileInputs.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\obj\Debug\net8.0\Operadores Lógicos.sourcelink.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\bin\Debug\net8.0\Operadores Lógicos.exe
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\bin\Debug\net8.0\Operadores Lógicos.deps.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\bin\Debug\net8.0\Operadores Lógicos.runtimeconfig.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\bin\Debug\net8.0\Operadores Lógicos.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\bin\Debug\net8.0\Operadores Lógicos.pdb
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\obj\Debug\net8.0\Operadores Lógicos.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\obj\Debug\net8.0\refint\Operadores Lógicos.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\obj\Debug\net8.0\Operadores Lógicos.pdb
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\obj\Debug\net8.0\Operadores Lógicos.genruntimeconfig.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores Lógicos\obj\Debug\net8.0\ref\Operadores Lógicos.dll

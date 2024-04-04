@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Calculadora.Models
 {
-    public class Calculadora
+    public class Calculator
     {
         public void Somar(int x, int y)
         {
@@ -19,9 +19,14 @@ namespace Calculadora.Models
         {
             Console.WriteLine($"{x}*{y}={x*y}");
         }
-        public void Dividor(int x, int y)
+        public void Dividir(int x, int y)
         {
             Console.WriteLine($"{x}/{y}={x/y}");
+        }
+        public void Potencia(int x, int y)
+        {
+            double pot = Math.Pow(x, y);
+            Console.WriteLine($"{x}^{y}={pot}");
         }
     }
 }

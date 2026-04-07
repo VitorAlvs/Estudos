@@ -1,0 +1,45 @@
+:root{
+    --dark-blue: #141e61;
+    --light: #acafd5;
+    --gray: #b6b6b6;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    /* border: 1px solid red; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+main{
+    width: 70%;
+    min-width: 580px;
+    max-width: 1300px;
+    margin: 20px auto;
+}
+
+.nome{
+    text-align: center;
+    color: var(--dark-blue);
+    background: var(--light);
+}
+
+.descricao{
+    margin: 20px;
+    text-align: center;
+}
+
+.title{
+    color: var(--dark-blue);
+    background: var(--gray);
+    padding: 10px;
+    border-bottom: 2px solid var(--dark-blue);
+    margin: 20px 0;
+}
+
+.objetivo{
+    margin-top: 7px;
+    margin-bottom: 25px;
+}
+

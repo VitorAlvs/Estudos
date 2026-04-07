@@ -1,0 +1,15 @@
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\bin\Debug\net8.0\05 - Operadores Aritméticos.exe
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\bin\Debug\net8.0\05 - Operadores Aritméticos.deps.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\bin\Debug\net8.0\05 - Operadores Aritméticos.runtimeconfig.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\bin\Debug\net8.0\05 - Operadores Aritméticos.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\bin\Debug\net8.0\05 - Operadores Aritméticos.pdb
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\obj\Debug\net8.0\05 - Operadores Aritméticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\obj\Debug\net8.0\05 - Operadores Aritméticos.AssemblyInfoInputs.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\obj\Debug\net8.0\05 - Operadores Aritméticos.AssemblyInfo.cs
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\obj\Debug\net8.0\05 - Operadores Aritméticos.csproj.CoreCompileInputs.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\obj\Debug\net8.0\05 - Operadores Aritméticos.sourcelink.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\obj\Debug\net8.0\05 - Operadores Aritméticos.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\obj\Debug\net8.0\refint\05 - Operadores Aritméticos.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\obj\Debug\net8.0\05 - Operadores Aritméticos.pdb
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\obj\Debug\net8.0\05 - Operadores Aritméticos.genruntimeconfig.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\05 - Operadores Aritméticos\obj\Debug\net8.0\ref\05 - Operadores Aritméticos.dll

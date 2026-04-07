@@ -1,0 +1,30 @@
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\obj\Debug\net8.0\04 - Tipos de Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\obj\Debug\net8.0\04 - Tipos de Operadores.AssemblyInfoInputs.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\obj\Debug\net8.0\04 - Tipos de Operadores.AssemblyInfo.cs
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\obj\Debug\net8.0\04 - Tipos de Operadores.csproj.CoreCompileInputs.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\obj\Debug\net8.0\04 - Tipos de Operadores.sourcelink.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\bin\Debug\net8.0\04 - Tipos de Operadores.exe
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\bin\Debug\net8.0\04 - Tipos de Operadores.deps.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\bin\Debug\net8.0\04 - Tipos de Operadores.runtimeconfig.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\bin\Debug\net8.0\04 - Tipos de Operadores.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\bin\Debug\net8.0\04 - Tipos de Operadores.pdb
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\obj\Debug\net8.0\04 - Tipos de Operadores.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\obj\Debug\net8.0\refint\04 - Tipos de Operadores.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\obj\Debug\net8.0\04 - Tipos de Operadores.pdb
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\obj\Debug\net8.0\04 - Tipos de Operadores.genruntimeconfig.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\obj\Debug\net8.0\ref\04 - Tipos de Operadores.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\bin\Debug\net8.0\04 - Tipos de Operadores.exe
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\bin\Debug\net8.0\04 - Tipos de Operadores.deps.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\bin\Debug\net8.0\04 - Tipos de Operadores.runtimeconfig.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\bin\Debug\net8.0\04 - Tipos de Operadores.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\bin\Debug\net8.0\04 - Tipos de Operadores.pdb
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\obj\Debug\net8.0\04 - Tipos de Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\obj\Debug\net8.0\04 - Tipos de Operadores.AssemblyInfoInputs.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\obj\Debug\net8.0\04 - Tipos de Operadores.AssemblyInfo.cs
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\obj\Debug\net8.0\04 - Tipos de Operadores.csproj.CoreCompileInputs.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\obj\Debug\net8.0\04 - Tipos de Operadores.sourcelink.json
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\obj\Debug\net8.0\04 - Tipos de Operadores.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\obj\Debug\net8.0\refint\04 - Tipos de Operadores.dll
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\obj\Debug\net8.0\04 - Tipos de Operadores.pdb
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\obj\Debug\net8.0\04 - Tipos de Operadores.genruntimeconfig.cache
+C:\Users\JoãoVítorSantosBR-iT\Documents\GitHub\Estudos\Formação .NET Developer - Dio\Fundamentos .NET\04 - Tipos de Operadores\Operadores de Atribuição\obj\Debug\net8.0\ref\04 - Tipos de Operadores.dll

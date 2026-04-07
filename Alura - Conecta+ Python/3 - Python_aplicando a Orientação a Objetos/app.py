@@ -1,10 +1,11 @@
 from modelos.restaurante import Restaurante
 
 restaurante_praca   = Restaurante('praça', 'gourmet')
-restaurante_bubble  = Restaurante('bubble', 'Frutos do Mar')
-restaurante_leaf    = Restaurante('Leaf', 'vegana')
+restaurante_praca.receber_avaliacao('Gui', 10)
+restaurante_praca.receber_avaliacao('Luisa', 7)
+restaurante_praca.receber_avaliacao('Paulo', 5)
 
-restaurante_bubble.alternar_estado()
+restaurante_praca.alternar_estado()
 
 def main():
     Restaurante.listar_restaurantes()

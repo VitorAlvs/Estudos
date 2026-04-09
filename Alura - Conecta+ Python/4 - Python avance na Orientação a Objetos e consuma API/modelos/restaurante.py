@@ -55,5 +55,5 @@ class Restaurante:
                 mensagem_prato = f'{i}. Nome: {each._nome} | Preço: R${each._preco} | Descrição: {each.descricao}' 
                 print(mensagem_prato)
             else:
-                mensagem_bebida = f'{i}. Nome: {each._nome} | Preço: R${each._preco} | Descrição: {each._tamanho}' 
+                mensagem_bebida = f'{i}. Nome: {each._nome} | Preço: R${each._preco} | Descrição: {each.tamanho}' 
                 print(mensagem_bebida)

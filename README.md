@@ -77,3 +77,6 @@ Estudos/
 ```
 
 A estrutura acima é o objetivo de organização. Atualmente, parte do conteúdo ainda está agrupada por curso ou instituição e será reorganizada gradualmente para evitar links quebrados e preservar o histórico.
+
+> Este repositório reúne exercícios e materiais de estudo.
+> Para projetos aplicados em dados e automação, consulte meus repositórios em destaque.

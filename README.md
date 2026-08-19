@@ -77,15 +77,3 @@ Estudos/
 ```
 
 A estrutura acima é o objetivo de organização. Atualmente, parte do conteúdo ainda está agrupada por curso ou instituição e será reorganizada gradualmente para evitar links quebrados e preservar o histórico.
-
-## Próximos passos de curadoria
-
-- Corrigir `Algoritimos` para `Algoritmos` no nome da pasta e atualizar os links relacionados.
-- Escolher um padrão único para nomes de pastas e descrições, preferencialmente em português ou em inglês.
-- Separar exercícios de projetos completos em diretórios próprios.
-- Adicionar um README a cada projeto que será mostrado em processos seletivos, incluindo contexto, funcionalidades, stack e como executar.
-- Fixar no perfil apenas os projetos que comprovem o objetivo profissional atual.
-- Arquivar, tornar privado ou manter fora do destaque materiais repetitivos e exercícios muito básicos.
-- Revisar periodicamente os projetos em destaque para que o repositório continue fácil de explorar.
-
-> Este repositório funciona como arquivo pessoal de aprendizagem. Para avaliação profissional, consulte primeiro os projetos em destaque.

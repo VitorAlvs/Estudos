@@ -1,82 +1,79 @@
-# Estudos
+# Estudos em dados e programação
 
-Repositório pessoal para organizar exercícios, anotações e projetos desenvolvidos durante minha formação em programação.
+Repositório pessoal de estudos, exercícios e projetos práticos com foco na área de dados.
 
-O conteúdo reúne práticas de **Python**, **JavaScript**, **desenvolvimento web**, **.NET** e **orientação a objetos**, além de formações da **Alura**, **DIO**, **freeCodeCamp**, **Hashtag Treinamentos** e da **University of Michigan**.
+Aqui registro minha evolução em **Python**, **análise e visualização de dados**, **Pandas**, **machine learning** e automação. O repositório também reúne fundamentos de JavaScript, desenvolvimento web e .NET que complementam minha formação técnica.
 
-## Índice
+## Foco atual
 
-- [Projetos em destaque](#projetos-em-destaque)
-- [Áreas de estudo](#áreas-de-estudo)
-- [Exercícios e fundamentos](#exercícios-e-fundamentos)
-- [Organização do repositório](#organização-do-repositório)
-- [Próximos passos de curadoria](#próximos-passos-de-curadoria)
+- Exploração, limpeza e transformação de dados com Python e Pandas;
+- análise exploratória e comunicação de resultados;
+- criação de dashboards interativos com Streamlit e Plotly;
+- fundamentos de machine learning com scikit-learn;
+- organização de notebooks, datasets e projetos reproduzíveis.
 
-## Projetos em destaque
-
-Estes são os projetos mais adequados para apresentar em processos seletivos. Cada um deve receber seu próprio README com objetivo, tecnologias, instruções de execução e capturas de tela ou demonstração.
+## Projetos e estudos em destaque
 
 | Projeto | Tecnologias | O que demonstra |
 | --- | --- | --- |
-| [Dashboard de salários na área de dados](Alura/Imersão%20dados_python/) | Python, Streamlit, Pandas, Plotly | Tratamento de dados, filtros e visualização interativa |
-| [Imersão Front-End: Spotify](Alura/Imersão%20Front-End/) | HTML, CSS, JavaScript | Estruturação de páginas e reprodução de uma interface web |
-| [Cars-Project](Javascript%20-%20Estudante.dev/Cars-Project/) | HTML, JavaScript, Bootstrap | Manipulação do DOM, cards, modal e troca de tema |
-| [Projeto Rockseat](Rockseat/Projeto/) | HTML, CSS, JavaScript | Construção de uma página web com recursos visuais |
-| [School-Project](Etec/School-Project/) | Projeto acadêmico da Etec |
+| [Dashboard de salários na área de dados](Alura/Imers%C3%A3o%20dados_python/) | Python, Pandas, Streamlit, Plotly | Tratamento de dados, filtros, métricas e visualização interativa |
+| [Pandas Supremo](Pandas%20supremo%20-%20Hashtag%20Treinamentos/) | Python, Pandas, Jupyter, CSV, Excel | Leitura, transformação, consolidação e análise de bases |
+| [Intro to Machine Learning](Intro%20to%20Machine%20Learning%20-%20Kaggle/) | Python, Pandas, scikit-learn | Exploração de dados, modelos, validação, overfitting e random forests |
+| [Python 3 Programming Specialization](Python%203%20Programming%20Specialization%20-%20University%20of%20Michigan/) | Python | Fundamentos, arquivos, dicionários, coleta e processamento de dados |
 
-## Áreas de estudo
+## Trilha de dados
 
-### Python e análise de dados
+### Python para dados
 
-- [Formação Python Developer - DIO](Formação%20Python%20Developer%20-%20Dio/): estruturas de dados, fundamentos e orientação a objetos.
-- [Imersão Dados - Alura](Alura/Imersão%20dados_python/): dashboard de análise de salários com Streamlit, Pandas e Plotly.
-- [Alura - Conecta+ Python](Alura%20-%20Conecta%2B%20Python/): lógica, funções, listas, aplicações e consumo de APIs.
-- [Jornada Python - Hashtag Treinamentos](Jornada%20Python%20-%20Hashtag%20Treinamentos/): exercícios e práticas de automação e programação.
-- [Python 3 Programming Specialization - University of Michigan](Python%203%20Programming%20Specialization%20-%20University%20of%20Michigan/): fundamentos, funções, arquivos e dicionários.
+- [Formação Python Developer — DIO](Forma%C3%A7%C3%A3o%20Python%20Developer%20-%20Dio/): fundamentos da linguagem, estruturas de dados, funções e orientação a objetos.
+- [Alura — Conecta+ Python](Alura%20-%20Conecta%2B%20Python/): lógica, funções, listas, aplicações e consumo de APIs.
+- [Jornada Python — Hashtag Treinamentos](Jornada%20Python%20-%20Hashtag%20Treinamentos/): exercícios, automação e práticas de programação.
+- [Python 3 Programming Specialization — University of Michigan](Python%203%20Programming%20Specialization%20-%20University%20of%20Michigan/): arquivos, dicionários, coleta e processamento de dados.
 
-### JavaScript
+### Análise e visualização
 
-- [Algoritimos e Estrutura de Dados em JavaScript - freeCodeCamp](Algoritimos%20e%20Estrutura%20de%20Dados%20em%20JavaScript%20-%20freeCodeCamp/): laços, objetos, funções e fundamentos de algoritmos.
-- [JavaScript - Estudante.dev](Javascript%20-%20Estudante.dev/): exercícios e o projeto interativo de carros.
-- [Alura - Conecta+ (JavaScript e Python)](Alura%20-%20Conecta%2B%20Python/): lógica de programação, funções, listas e aplicações.
+- [Imersão Dados — Alura](Alura/Imers%C3%A3o%20dados_python/): análise de uma base de salários e publicação de dashboard com Streamlit.
+- [Pandas Supremo — Hashtag Treinamentos](Pandas%20supremo%20-%20Hashtag%20Treinamentos/): manipulação de dados tabulares em CSV e Excel com Pandas.
+- [Intro to Machine Learning — Kaggle](Intro%20to%20Machine%20Learning%20-%20Kaggle/): preparação de dados, treinamento, validação e comparação de modelos.
 
-### Desenvolvimento web
+### Fundamentos complementares
 
-- [Responsive Web Design - freeCodeCamp](Responsive%20Web%20Design%20-%20freeCodeCamp/): projetos de formulário, documentação, portfólio, tributo e página de produto.
-- [Imersão Front-End - Alura](Alura/Imersão%20Front-End/): interface inspirada no Spotify com HTML, CSS e JavaScript.
-- [HTML e CSS - Alura](Alura/HTML%20e%20CSS%20-%20ambientes%20de%20desenvolvimento,%20estrutura%20de%20arquivos%20e%20tags/): fundamentos de HTML e CSS.
-- [Green Team Hackers Club](Green%20Team%20Hackers%20Club/): fundamentos de web design, HTML, CSS e JavaScript.
-- [Teste front-end](Teste%20front-end/): experimentos de interface e estilização.
+- [Algoritmos e Estrutura de Dados em JavaScript — freeCodeCamp](Algoritimos%20e%20Estrutura%20de%20Dados%20em%20JavaScript%20-%20freeCodeCamp/): lógica, estruturas e resolução de problemas.
+- [Formação .NET Developer — DIO](Forma%C3%A7%C3%A3o%20.NET%20Developer%20-%20Dio/): fundamentos do ecossistema .NET e C#.
+- [Responsive Web Design — freeCodeCamp](Responsive%20Web%20Design%20-%20freeCodeCamp/): HTML, CSS e construção de interfaces.
 
-### Outras formações e projetos
+## Como explorar este repositório
 
-- [Formação .NET Developer - DIO](Formação%20.NET%20Developer%20-%20Dio/): fundamentos do ecossistema .NET.
-- [Off Course](Off%20Course/): experimentos e testes isolados.
-- [Pessoais](Pessoais/): projetos desenvolvidos fora das trilhas de cursos.
+Os projetos de dados estão organizados por trilha ou curso e combinam notebooks, scripts e bases de exemplo. Para começar:
 
-## Exercícios e fundamentos
+1. Explore o [dashboard de salários](Alura/Imers%C3%A3o%20dados_python/) para ver uma aplicação completa;
+2. Consulte o [Pandas Supremo](Pandas%20supremo%20-%20Hashtag%20Treinamentos/) para exemplos de preparação e análise;
+3. Avance pelos notebooks de [machine learning](Intro%20to%20Machine%20Learning%20-%20Kaggle/) em ordem numérica.
 
-Os arquivos abaixo representam práticas de aprendizado e não precisam ser apresentados individualmente no perfil:
+No caso do dashboard, as dependências estão no arquivo [requirements.txt](Alura/Imers%C3%A3o%20dados_python/requirements.txt). A aplicação pode ser executada a partir da pasta do projeto com:
 
-- exercícios iniciais de lógica, laços, arrays, objetos e funções;
-- desafios de Python e JavaScript;
-- atividades de estruturas de dados e orientação a objetos;
-- páginas de estudo reproduzidas a partir de cursos;
-- testes isolados e exemplos muito pequenos.
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-Eles permanecem aqui como histórico de evolução e consulta, enquanto os projetos em destaque concentram o material voltado à apresentação profissional.
-
-## Organização do repositório
+## Organização
 
 ```text
 Estudos/
-├── Projetos em destaque/       # aplicações completas e projetos para portfólio
-├── Exercícios/                 # práticas curtas e desafios de cursos
-├── Formações/                  # conteúdos agrupados por instituição ou trilha
+├── Alura/                              # trilhas e projetos, incluindo análise de dados
+├── Pandas supremo - Hashtag Treinamentos/
+├── Intro to Machine Learning - Kaggle/
+├── Python 3 Programming Specialization - University of Michigan/
+├── Formação Python Developer - Dio/
 └── README.md
 ```
 
-A estrutura acima é o objetivo de organização. Atualmente, parte do conteúdo ainda está agrupada por curso ou instituição e será reorganizada gradualmente para evitar links quebrados e preservar o histórico.
+Os exercícios menores permanecem como histórico de aprendizado e consulta. Os projetos em dados concentram o material mais próximo de um portfólio profissional.
 
-> Este repositório reúne exercícios e materiais de estudo.
-> Para projetos aplicados em dados e automação, consulte meus repositórios em destaque.
+## Próximos passos
+
+- documentar cada projeto com objetivo, contexto e principais descobertas;
+- adicionar análises exploratórias com visualizações e conclusões mais detalhadas;
+- praticar modelagem, seleção de atributos e métricas de avaliação;
+- criar novos projetos de dados com fontes públicas e pipelines reproduzíveis.

@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+:root{
+    --black: #000;
+    --white: #fff;
+}
+
+*{
+    /*border: 1px solid red;*/
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: var(--white);
+}
+
+/*HEADER------------------------------------------*/
+header{
+    /*(15)*/    /*(13)*/
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--black);
+    height: 70px;
+    min-width: 800px;
+}
+
+header img{
+    height: 100%;
+}
+
+header nav{
+    margin: 20px;
+}
+
+header nav ul{
+    /*(15)*/
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    gap: 20px;
+}
+
+
+
+/*MAIN--------------------------------------------*/
+main{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.video{
+    padding: 10px;
+}
+
+.video iframe{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.text{
+    padding: 20px;
+}
+
+h1{
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center ;
+}
+
+h2{
+    text-align: center;
+    margin: 30px;
+    font-size: 32px;
+}
+
+p{
+    margin: 10px;
+    text-align: justify;
+    font-size: 21px;
+}
+
+h4{
+    font-size: 25px;
+}
+
+h3{
+    margin: 30px;
+    font-size: 28px;
+    text-align: center;
+}
+
+form{
+    border-radius: 15px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 15px;
+}
+
+#email{
+    width: 50%;
+    margin: 10 auto;
+}
+
+#submit{
+    width: 30%;
+    margin: 10 auto;
+}
+
+/* Submit Form */
+form{
+    margin-top: 50px;
+}
+
+input[type="email"]{
+    border: 2px solid var(--black);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+input[type="email"]::placeholder{
+    color: var(--black);
+}
+
+input[type="submit"]{
+    border: 2px solid;
+    padding: 7px;
+    border-radius: 10px;
+    background-color: var(--black);
+    color: var(--white);
+    cursor: pointer;
+}
+
+input[type="submit"]:hover{
+    border: 2px solid var(--black);
+    background-color: var(--white);
+    color: var(--black);
+}
+
+/*Query-------------------------------------------*/
+/*(14)*/
+@media (max-width: 1000px){
+    /*(13)*/
+    header{
+        border-radius: 10px;
+         display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    img{
+        border-radius: 10px;
+    }
+
+    main{
+        width: 80%;
+    }
+}

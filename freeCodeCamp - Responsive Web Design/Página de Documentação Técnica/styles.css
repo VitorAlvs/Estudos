@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;500&display=swap');
+
+*{
+    box-sizing: border-box;
+    /*border: 1px solid red;*/
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.bold{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+/*(14)*/
+body{
+    display: flex;
+}
+
+header{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+p{
+    font-size: 1.2rem;
+}
+
+code{
+    border: 2px dotted #E5E5E5;
+    display: inline-block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #000000;
+}
+
+nav{
+    height: 100vw;
+    width: 40%;
+    min-width: 220px;
+    padding: 10px;
+    text-align: center;
+    background-color: #000000;
+}
+
+nav header{
+    color: #FCA311;
+    margin-bottom: 20px;
+}
+
+nav ul li a{
+    text-decoration: underline;
+    color: #FFFFFF;
+}
+
+nav ul li{
+    text-align: center;
+    font-size: 1.3rem;
+    margin: 5px;
+    overflow: hidden;
+}
+
+main{
+    padding: 10px;
+    background-color: #14213D;
+    color: #E5E5E5;
+    text-align: justify;
+}
+
+main section{
+    margin-bottom: 20px;
+}
+
+main section header{
+    border-top: 2px dashed black;
+    margin-top: 10px;
+}
+
+main #Corpo_do_HTML ol{
+    margin-left: 15px;
+}
+
+@media(max-width: 800px){
+    body{
+        display: flex;
+        flex-direction: column;
+        max-height: 220px;
+    }
+
+    nav{
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    nav ul li{
+        display: inline-block;
+        overflow: hidden;
+    }
+}

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>Formulário de Pesquisa</title>
+  </head>
+
+  <body>
+      <!--(1)-->
+        <h1 id="title">Pesquisa de Pokémons</h1>
+        <!--(2)-->
+        <p id="description">Muito obrigado por compartilhar um pouco de seus gostos sobre Pokémon</p>
+
+        <!--(3)-->
+        <form id="survey-form">
+            
+            <div class="align-main">
+                <div class="align">
+                    <!--(10)-->
+                    <label for="name" id="name-label">Nome:
+                        <!--(4, 11)--> 
+                        <input type="text" id="name" placeholder="Maria da Silva" required>
+                    </label>
+                </div>
+                
+                <div class="align">
+                    <!--(10)-->
+                    <label for="email" id="email-label">E-mail: 
+                        <!--(5, 11)-->
+                        <input type="email" id="email" placeholder="maria@x.com" required>
+                    </label>
+                </div>
+                
+                <div class="align">
+                    <!--(10)-->
+                    <label for="number" id="number-label">Idade:
+                        <!--(7,9, 11)--> 
+                        <input type="number" id="number" placeholder="21" min="13" max="120">
+                    </label>
+                </div>
+            </div>
+
+            <div class="align-main">
+                <label for="dropdown">Região favorita: 
+                    <!--(12)-->
+                    <select id="dropdown">
+                    <option value="" disabled selected>Selecione um</option>
+                    <option value="Kanto">Kanto</option>
+                    <option value="Johto">Johto</option>
+                    <option value="Hoenn">Hoenn</option>
+                    <option value="Sinnoh">Sinnoh</option>
+                    <option value="Unova">Unova</option>
+                    <option value="Kalos">Kalos</option>
+                    <option value="Alola">Alola</option>
+                    <option value="Galar ">Galar </option>
+                    <option value="Hisui">Hisui</option>
+                    </select>
+                </label>
+        
+                <!--(13)-->
+                <label for="team">Você é do time:
+                    <input type="radio" name="team" value="Valor" id="Valor">Valor
+                    <input type="radio" name="team" value="Mystic" id="Mystic">Mystic
+                    <input type="radio" name="team" value="Instinct" id="Instinct">Instinct
+                </label>
+            </div>
+
+            <!--(14)-->
+            <label for="type"><p>Quais seus tipos favoritos de pokémon?</p> <br>
+                <input type="checkbox" value="Normal">Normal <br>
+                <input type="checkbox" value="Fire">Fire (fogo) <br>
+                <input type="checkbox" value="Water">Water (água) <br>
+                <input type="checkbox" value="Grass">Grass (grama) <br>
+                <input type="checkbox" value="Flying">Flying (voador) <br>
+                <input type="checkbox" value="Fighting">Fighting (lutador) <br>
+                <input type="checkbox" value="Poison">Poison (veneno) <br>
+                <input type="checkbox" value="Electric">Electric (elétrico) <br>
+                <input type="checkbox" value="Ground">Ground (terra) <br>
+                <input type="checkbox" value="Rock">Rock (pedra) <br>
+                <input type="checkbox" value="Psychic">Psychic (psíquico) <br>
+                <input type="checkbox" value="Ice">Ice (gelo) <br>
+                <input type="checkbox" value="Bug">Bug (inseto) <br>
+                <input type="checkbox" value="Ghost">Ghost (fantasma) <br>
+                <input type="checkbox" value="Steel">Steel (ferro) <br>
+                <input type="checkbox" value="Dragon">Dragon (dragão) <br>
+                <input type="checkbox" value="Dark">Dark (sombrio) <br>
+                <input type="checkbox" value="Fairy">Fairy (fada) <br>
+            </label>
+
+            <br>
+
+            <!--(15)-->
+            <textarea name="" id="description" placeholder="Sou um treinador audacioso..."></textarea>
+            
+            <!--(16)-->
+            <input type="submit" value="Enviar" id="submit">
+        </form>
+  </body>
+<html>
